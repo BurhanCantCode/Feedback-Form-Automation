@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Random Radio Button Selector",
+    "name": "Automator",
     "version": "1.0",
     "description": "Selects radio buttons randomly on a webpage.",
     "permissions": ["activeTab"],
